@@ -11,8 +11,8 @@
       "city":"Longview",
       "state":"Texas"
     },
-    "website": "http://www.dvessey.github.io",
-    "resumedownload":"http://dvessey.github.io",
+    "website": "https://damon-react-resume.herokuapp.com/",
+    "resumedownload":"http://dvessey.github.io/DamonVesseySoftwareResume.pdf",
     "social":[
       {
         "name":"linkedin",
