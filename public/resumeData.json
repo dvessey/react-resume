@@ -86,6 +86,12 @@
         "category":"Web Application for PumpWorks",
         "image":"ProductionScheduler.png",
         "url":"https://github.com/dvessey/Production-Scheduler"
+      },
+      {
+        "title":"E-Commerce React App",
+        "category":"Web application deployed to heroku",
+        "image":"ecommerce.png",
+        "url":"https://crwn-ecommerce-app-live.herokuapp.com"
       }
     ]
   },
