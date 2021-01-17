@@ -1,0 +1,100 @@
+{
+  "main": {
+    "name":"Damon Vessey",
+    "occupation":"Software Engineer",
+    "description":"I have 3 years of experience in software development, 10 years experience in problem solving and machining and a life-long passion for technology and learning",
+    "image":"profilepic.jpg",
+    "bio":"I am a workaholic, and love to learn new things. I am constantly reading about new technology trends and keeping myself relevant in the direction the software industry is headed.",
+    "contactmessage":"Contact Me",
+    "email": "dvessey2008@gmail.com",
+    "address":{
+      "city":"Longview",
+      "state":"Texas"
+    },
+    "website": "http://www.dvessey.github.io",
+    "resumedownload":"http://dvessey.github.io",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/damon-vessey-45028610a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/dvessey",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"SKILLS",
+    "education":[
+      {
+        "school":"Western Governors University",
+        "degree":"Bachelor's in Software Development",
+        "graduated":"2023",
+        "description":"Working towards my Bachelors of Science in Software Development with a specialization in C# and Xamarin and Web Developement"
+      }
+    ],
+    "work":[
+      {
+        "company":"PumpWorks",
+        "title":"CNC Programmer/Machinist ",
+        "years":"June 2018 - Present",
+        "description":"Program Computer Numerically Controlled Lathes and Mills to produce parts to customer specifications. Created a production scheduler web application in Java, Spring Boot, Bootstrap, AJAX, Jquery, with a PostgreSQL Database to help our scheduling manager keep track of, prioritize, and streamline production scheduling for the shop with an easy to use drag and drop interface that automatically calculates start and end times based on where the item was dropped in the list and what machine it moved to."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Spring Boot",
+        "level":"70%"
+      },
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"100%"
+      },
+      {
+        "name":"Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      },
+      {
+        "name":"Jquery",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Production Scheduler",
+        "category":"Web Application for PumpWorks",
+        "image":"ProductionScheduler.png",
+        "url":"https://github.com/dvessey/Production-Scheduler"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Damon is a very bright and talented individual with a strong work ethic and excellent attention to details, who goes above and beyond, and is always a pleasure to work with",
+        "user":"Jeff Steig"
+      }
+    ]
+  }
+}
